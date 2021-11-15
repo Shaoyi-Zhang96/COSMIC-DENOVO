@@ -5,7 +5,7 @@ This Brief description is for the researchers with minimal knowledge about Pytho
 but want to take advantage of the COSMIC SigProfiler tools to identify genetic signatures 
 and create a representative decomposition chart to present.
 
-I have made a Youtube video to help you with the process: 
+I have made a Youtube video to help you with the process: https://www.youtube.com/watch?v=rVSCBUdX7Sk
 
 
 
