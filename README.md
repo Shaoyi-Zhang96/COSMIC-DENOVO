@@ -42,7 +42,7 @@ If this command does not show version information or shows a python3 version old
 
 2.  install SigProfilerMatrixGenerator 
         
-         pip install SigProfiler MatrixGenerator
+         pip install SigProfilerMatrixGenerator
 3.  Install SigProfiler Extractor
         
         pip install SigProfilerExtractor
