@@ -25,6 +25,7 @@ simplicity(if your original file is in CSV or excel format, you can use a free o
  
 https://drive.google.com/file/d/1SyUKxrI11lCsTecDNR985t20_3Pz1s0m/view?usp=sharing
 ## Sample Output
+![SBS1536_Decomposition_Plots-page-0](https://user-images.githubusercontent.com/94341094/141750105-08c56fde-0276-46b7-a3c3-ebb860b389b3.gif)
 
 
 
