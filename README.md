@@ -19,7 +19,9 @@ Python3
 Recommendations: This tool is much simpler if run on Mac OS Terminal compared to Windows Command Prompt.
 ## Sample Input
 
-In order for this tool to run smoothly, please strictly follow the format of this sample file. The Tool will be able to process VCF files but txt is always recommened for beginners due to its simplicity(if your original file is in CSV or excel format, you can use a free online converter to convert it to a txt file).
+In order for this tool to run smoothly, please strictly follow the format of this sample file. 
+The Tool will be able to process VCF files but txt is always recommened for beginners due to its 
+simplicity(if your original file is in CSV or excel format, you can use a free online converter to convert it to a txt file).
  
 https://drive.google.com/file/d/1SyUKxrI11lCsTecDNR985t20_3Pz1s0m/view?usp=sharing
 ## Sample Output
