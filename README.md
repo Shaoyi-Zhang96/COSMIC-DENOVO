@@ -22,8 +22,8 @@ Recommendations: This tool is much simpler if run on Mac OS Terminal compared to
 In order for this tool to run smoothly, please strictly follow the format of this sample file. 
 The Tool will be able to process VCF files but txt is always recommened for beginners due to its 
 simplicity(if your original file is in CSV or excel format, you can use a free online converter to convert it to a txt file).
- 
-https://drive.google.com/file/d/1SyUKxrI11lCsTecDNR985t20_3Pz1s0m/view?usp=sharing
+ ![ezgif com-gif-maker](https://user-images.githubusercontent.com/94341094/141750685-cfb173df-dbeb-4d7e-86b0-aa5b7d8e8c10.gif)
+
 ## Sample Output
 ![SBS1536_Decomposition_Plots-page-0](https://user-images.githubusercontent.com/94341094/141750105-08c56fde-0276-46b7-a3c3-ebb860b389b3.gif)
 
