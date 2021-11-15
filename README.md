@@ -29,7 +29,6 @@ https://drive.google.com/file/d/1SyUKxrI11lCsTecDNR985t20_3Pz1s0m/view?usp=shari
 
 
 
-https://drive.google.com/file/d/1k_Lo54-fzhrU_8-tS9JXdsafobqf6qdZ/view?usp=sharing
 ## How to Download the tool
 Open Terminal on your Computer(This Tools does not need to be run on a IDE like pycharm)
 
